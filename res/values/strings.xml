@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="elije_color">Elije un color</string>
+    <string name="app_name">DosActividades</string>
+    <string name="color_rojo">Rojo</string>
+    <string name="color_azul">Azul</string>
+    <string name="color_verde">Verde</string>
+    <string name="boton">Enviar color</string>
+    <string name="color_elegido">El fondo de esta pantalla muestra el color elegido</string>
+    <string name="mensaje_error">No se eligió color alguno</string>
+</resources>
